@@ -1,0 +1,43 @@
+body {
+    font-family: "Vibes", cursive;
+    font-size: 1.5rem;
+    color: yellow;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(grey, black);
+
+}
+h1 {
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+td {
+    width: 10%;
+    height: 60px;
+    border: 2px yellow solid;
+    text-align: center;
+}
+#myBtn {
+    font-family: "Vibes", cursive;
+    font-size: 1.2rem;
+    color: black;
+    letter-spacing: 3px;
+    margin-top: 25px;
+    width: 20%;
+    height: auto;
+}
+/* #demo {
+    width: 10%;
+    height: 60px;
+    border: 2px yellow solid;
+    text-align: center;
+} */
+
+
+
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
